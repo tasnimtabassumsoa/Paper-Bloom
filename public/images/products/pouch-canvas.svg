@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" fill="none">
+  <rect width="480" height="600" fill="#f6fbf5"/>
+  <circle cx="385" cy="105" r="90" fill="#c7e8d1" opacity="0.25"/>
+  <circle cx="95" cy="495" r="105" fill="#dec0b7" opacity="0.25"/>
+  
+      <g transform="translate(120 130) rotate(-18)">
+        <rect x="0" y="70" width="24" height="260" rx="12" fill="#476553"/>
+        <rect x="0" y="70" width="24" height="54" rx="8" fill="#c7e8d1"/>
+        <polygon points="12,354 3,330 21,330" fill="#181d1a"/>
+      </g>
+      <g transform="translate(215 115) rotate(-8)">
+        <rect x="0" y="70" width="24" height="260" rx="12" fill="#c7e8d1"/>
+        <rect x="0" y="70" width="24" height="54" rx="8" fill="#476553"/>
+        <polygon points="12,354 3,330 21,330" fill="#181d1a"/>
+      </g>
+      <g transform="translate(305 140) rotate(5)">
+        <rect x="0" y="70" width="24" height="260" rx="12" fill="#dec0b7"/>
+        <rect x="0" y="70" width="24" height="54" rx="8" fill="#181d1a"/>
+        <polygon points="12,354 3,330 21,330" fill="#181d1a"/>
+      </g>
+  <text x="240" y="540" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#181d1a" opacity="0.65">Heavyweight Cotton Pencil Pouch</text>
+</svg>

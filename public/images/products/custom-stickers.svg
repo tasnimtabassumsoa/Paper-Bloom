@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" fill="none">
+  <rect width="480" height="600" fill="#faf4ee"/>
+  <circle cx="385" cy="105" r="90" fill="#f3d6b0" opacity="0.25"/>
+  <circle cx="95" cy="495" r="105" fill="#dec0b7" opacity="0.25"/>
+  
+      <rect x="175" y="110" width="130" height="310" rx="16" fill="#ffffff" stroke="#dec0b7" stroke-width="2.5"/>
+      <circle cx="240" cy="148" r="10" fill="#faf4ee" stroke="#9f3c16" stroke-width="2"/>
+      <rect x="200" y="195" width="80" height="150" rx="8" fill="#f3d6b0" opacity="0.45"/>
+      <path d="M240 240 C252 255 252 275 240 290 C228 275 228 255 240 240 Z" fill="#9f3c16"/>
+  <text x="240" y="540" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#181d1a" opacity="0.65">Waterproof School Book &amp; Bottle Na</text>
+</svg>

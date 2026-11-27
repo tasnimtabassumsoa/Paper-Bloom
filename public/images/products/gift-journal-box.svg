@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" fill="none">
+  <rect width="480" height="600" fill="#fbf5ef"/>
+  <circle cx="385" cy="105" r="90" fill="#476553" opacity="0.25"/>
+  <circle cx="95" cy="495" r="105" fill="#dec0b7" opacity="0.25"/>
+  
+      <rect x="110" y="170" width="260" height="230" rx="16" fill="#ffffff" stroke="#9f3c16" stroke-width="2.5"/>
+      <rect x="98" y="150" width="284" height="44" rx="10" fill="#9f3c16"/>
+      <rect x="226" y="150" width="28" height="250" fill="#476553"/>
+      <path d="M240 150 C205 110 175 135 210 150 Z" fill="#476553"/>
+      <path d="M240 150 C275 110 305 135 270 150 Z" fill="#476553"/>
+  <text x="240" y="540" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#181d1a" opacity="0.65">Signature Journaling Starter Keeps</text>
+</svg>
